@@ -1,0 +1,56 @@
+### 1. Python Specific Files ###
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Created by setuptools/pip install
+*.egg-info/
+.eggs/
+
+# Distribution packaging
+/dist/
+/build/
+
+# Compiled object files
+*.so
+
+### 2. Virtual Environments ###
+# Ignore common names for virtual environment folders
+venv/
+.venv/
+env/
+.env/
+
+### 3. IDE and Editor Configuration Files ###
+
+# JetBrains/PyCharm/IntelliJ (This handles the files you pointed out!)
+.idea/
+
+# Visual Studio Code (VS Code) settings
+.vscode/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail database
+Thumbs.db
+
+### 4. Application-Generated/Local Files ###
+
+# Database/Persistence files created by your program
+# The file we used for the Coffee Shop history
+order_history.txt
+
+# Common local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Files often used to save serialized objects (like 'pickle')
+*.pkl
+*.pickle
+shop_state.pkl
