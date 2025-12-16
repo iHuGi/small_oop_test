@@ -1,6 +1,6 @@
 #☕ Coffee Shop Order System (OOP Refresher) A Python program designed to refresh core Object-Oriented Programming (OOP) principles through an in-memory simulation of a coffee shop order system, utilizing a **modular architecture**.
 
-##✨ Key Concepts DemonstratedThis project showcases the four pillars of OOP:
+##✨ Key Concepts Demonstrated: This project showcases the four pillars of OOP:
 
 | Concept | Demonstrated By | Explanation |
 | --- | --- | --- |
