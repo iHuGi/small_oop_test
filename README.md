@@ -1,4 +1,4 @@
-#☕ Coffee Shop Order System (OOP Refresher)A Python program designed to refresh core Object-Oriented Programming (OOP) principles through an in-memory simulation of a coffee shop order system, utilizing a **modular architecture**.
+#☕ Coffee Shop Order System (OOP Refresher) A Python program designed to refresh core Object-Oriented Programming (OOP) principles through an in-memory simulation of a coffee shop order system, utilizing a **modular architecture**.
 
 ##✨ Key Concepts DemonstratedThis project showcases the four pillars of OOP:
 
@@ -15,7 +15,6 @@
 
 ```bash
 python main_v2.py
-
 ```
 
 ###Expected OutputThe program will run through the process of creating various drinks, adding them to the register, processing all orders using polymorphism, and displaying the final total revenue.
@@ -31,5 +30,4 @@ coffee-shop-oop/
 ├── register.py         # Contains the Encapsulation logic (Register class).
 ├── .venv/              # (Optional) Your Python Virtual Environment.
 └── README.md           # This file
-
 ```
