@@ -1,5 +1,5 @@
 # MODULARIZATION: This file imports classes defined in other modules (.py files).
-# This is how the different pieces of the program are connected..
+# This is how the different pieces of the program are connected...
 from register import Register
 from drink import Coffee, Tea, Soda # Import all necessary classes
 
