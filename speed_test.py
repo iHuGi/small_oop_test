@@ -1,5 +1,5 @@
 """
-Python vs. Rust Performance Benchmark
+Python vs. Rust vs. C++ Performance Benchmark
 This script evaluates the execution speed of Python by performing exactly one billion bitwise operations.
 It is designed to be compared directly against an equivalent Rust implementation.
 """
